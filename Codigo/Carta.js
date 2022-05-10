@@ -1,4 +1,4 @@
-//Declaracion Clase CARTA
+//Declaracion Clase CARTA cambio
 function Carta() {
 	//Propiedades
     this.indice = Math.floor(Math.random() * 52) + 1; //Se genera aleatoriamente el indice de la carta
